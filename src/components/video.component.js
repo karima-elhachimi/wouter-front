@@ -1,6 +1,6 @@
 import React from "react"
-import "../css/video.component.css";
-import backgroundVideo from '../../static/background.mp4';
+import "../styles/video.component.css";
+import backgroundVideo from '../../static/media/background.mp4';
 
 export default () => (
 <video className='videoTag' autoPlay loop muted>
